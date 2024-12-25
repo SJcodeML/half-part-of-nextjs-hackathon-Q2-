@@ -1,5 +1,5 @@
 
-import NavbarBottom from "./component/NavbarDown";
+import NavbarBottom from "./components/NavbarDown";
 import "./globals.css";
 import Head from "next/head";
 
