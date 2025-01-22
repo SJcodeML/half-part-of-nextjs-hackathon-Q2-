@@ -31,6 +31,7 @@
 "use client";  
 import { ChangeEvent } from "react";   
 import { useRouter } from "next/navigation";  
+import Card from "@/app/components/blogpage"
 
 export default function SelectDropdown() {  
     const router = useRouter();  
@@ -51,6 +52,9 @@ export default function SelectDropdown() {
                 <option value="about">About Us</option>  
                 {/* Add other items corresponding to dynamic routes */}  
             </select>  
+
+            
+            
         </div>  
     );  
 }  

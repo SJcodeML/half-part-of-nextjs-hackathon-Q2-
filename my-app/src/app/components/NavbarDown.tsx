@@ -20,7 +20,7 @@ export default function NavbarBottom (){
          
         <p className="hover:underline decoration-[#7E33E0] cursor-pointer hover:decoration-pink-400">Pages</p>  
         <Link href="/Productdetails" className="hover:underline decoration-[#7E33E0]  cursor-pointer hover:decoration-pink-400">Products</Link>  
-        <Link href="/blogpage"  className="hover:underline decoration-[#7E33E0] cursor-pointer hover:decoration-pink-400">Blogs</Link>  
+        <Link href="/final-blog-res"  className="hover:underline decoration-[#7E33E0] cursor-pointer hover:decoration-pink-400">Blogs</Link>  
         <Link href="/ShopList"  className="hover:underline decoration-[#7E33E0] cursor-pointer hover:decoration-pink-400">Shop</Link>  
         <Link href="/contactus" className="hover:underline decoration-[#7E33E0] cursor-pointer hover:decoration-pink-400">Contact</Link>  
     </div>  
